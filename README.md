@@ -23,7 +23,12 @@ Calling “Hairch” From controller to View:</p>
 class profile extends Controller
 {
          public function index(){
-//*Parameters  array, please change values with your, Table name, your primary key field name, parent id field name, URL where to take after you click, and name your “description or title” field.
+
+//*Parameters  array, please change values with your, 
+Table name, your primary key field name, parent id field 
+name, URL where to take after 
+you click, and name your 
+“description or title” field.
 
 $prams = [
         'table_name'=&gt;&quot;accounts&quot;,   
