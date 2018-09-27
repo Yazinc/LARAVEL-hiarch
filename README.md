@@ -1,6 +1,6 @@
 <p>What is this?</p>
 <p>Professional Apps present data in organize way, We often call it Child/Parent Management.<br>
-What to do if you have 4 to 15 tables and your app demands or looks great if you have to organize all those tables like Products, Accounts, Customers, Vendors in Child/Parent or Categories / Subcategories methods, I am sure,  lot of hard work/code work  will be involved for each elements to render in HTML sections where its required, and handing of massive code will be another issue.</p>
+What to do if you have 4 to 15 tables and your app demands or looks great if you have to organize all those tables like Products, Accounts, Customers, Vendors in Child/Parent or Categories / Subcategories methods, I am sure,  lot of hard work/code work  will be involved for each elements to render in HTML sections where its required, and handling of massive code will be another issue.</p>
 <pre><code>Thus at this point, I made this Gadget to solve those issues. This product works with Larval Framework only.
 </code></pre>
 <p>How it Work- Implementation :</p>
