@@ -17,8 +17,10 @@ How it Work- Implementation :
 1.	Download Master and Unzip : Get  “yazinc” folder to your laravel “App” Directory. 
 2.	Define your own controller.  Check  controller code as below:
 
-namespace App\Http\Controllers;
-use App\User;
-use App\Http\Controllers\Controller;
-use App\yazinc\hiarch;   	
+
+            namespace App\Http\Controllers;
+            use App\User;
+            use App\Http\Controllers\Controller;
+            use App\yazinc\hiarch;   	
+
 Your Controller / laravel project now “Hiarch” enabled.  
