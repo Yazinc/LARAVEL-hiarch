@@ -16,8 +16,11 @@ use App\yazinc\hiarch;
 </code></pre>
 <p>The last line into Your Controller / Model / Views code will make your Laravel App a “Hiarch” enabled app.</p>
 <p>REQUIREMENTS:</p>
-<p>Any Table in database with record id (int), parent id(int) and Title(chr) fields is qualified for this Gadget.<br>
-Note: YOU ARE FREE TO NAME DATA FIELD OF YOUR OWN CHOICE,  “parent _id” can be “p_id”, “Tile” can be “description” we will adjust these matters in “Parameters” ahead.</p>
+<p>Tables must have fields: 
+ 1. id(int)  
+ 2. parent_id(int) 
+ 3. title(chr) 
+ Note: "No name restruction, use any field name you can, we will adjust names in parameters. we will adjust these matters in “Parameters” ahead.</p>
 <p>Calling “hiarch” (Anywhere into Laravel App) :<br>
 Calling “Hairch” From controller to View:</p>
 <pre><code>&lt;?php
