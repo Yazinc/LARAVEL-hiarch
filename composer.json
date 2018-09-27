@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Yazinc/LARAVEL-Hiarch"
+        }
+    ],
+    "require": {
+        "yazinc/hirach": "dev-bugfix"
+    }
+}
