@@ -1,6 +1,3 @@
-<h1><a id="LARAVELhiarch_0"></a>LARAVEL-hiarch</h1>
-<p>Hierarchical Management for Laravel Projects &amp; Apps. Hiarch Organizes Your Tables, Lists, Menus, Products in Child/Parent With unlimited Levels.<br>
-Hierarchical Management for Laravel Projects &amp; Apps.  Organizes Your Tables, Lists, Menus and Products in Child/Parent With unlimited Levels.</p>
 <p>What is this?</p>
 <p>Professional Apps present data in organize way, We often call it Child/Parent Management.<br>
 What to do if you have 4 to 15 tables and your app demands or looks great if you have to organize all those tables like Products, Accounts, Customers, Vendors in Child/Parent or Categories / Subcategories methods, I am sure,  lot of hard work/code work  will be involved for each elements to render in HTML sections where its required, and handing of massive code will be another issue.</p>
