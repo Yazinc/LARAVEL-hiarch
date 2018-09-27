@@ -67,4 +67,7 @@ for More information on this Topic:
  
 https://support.commoncontrolshub.com/hc/en-us/articles/115001917806-Select-a-hierarchical-level-for-the-Asset-
 
-Hierarchical structure of product categories
+Hierarchical structure of product categories:
+
+https://developer.intuit.com/hub/blog/2015/10/23/item-hierarchies-using-categories-coming-in-quickbooks
+
