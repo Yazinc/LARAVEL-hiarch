@@ -23,4 +23,4 @@ How it Work- Implementation :
             use App\Http\Controllers\Controller;
             use App\yazinc\hiarch;   	
 
-Your Controller / laravel project now “Hiarch” enabled.  
+adding last line into Your Controller / Model / View  will make your Laravel App a “Hiarch” enabled app.  
